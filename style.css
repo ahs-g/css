@@ -273,3 +273,13 @@ options-list:before{border-color:transparent transparent #fff;border-style:solid
     padding: 12px 18px;
     text-transform: none;
 }
+.postprofile {
+    color: #222;
+    display: block;
+    float: right;
+    font-size: 1.3rem;
+    padding: 18px;
+    position: relative;
+    width: 211px;
+    word-wrap: break-word;
+}
